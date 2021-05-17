@@ -1,0 +1,24 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(img.png);
+	background-size: cover;
+	background-position: center;
+}
+
+.login-box{
+	max-width: 700px;
+	float:center;
+	margin: 150px auto;
+	padding: 1px;
+}
+
+.login-left{
+	background: #fff;
+	padding: 30px;
+	float: left;
+}
+
+.login-right{
+	background: #fff;
+	padding: 30px;
+	float: right;
+}
